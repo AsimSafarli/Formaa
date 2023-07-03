@@ -10,3 +10,10 @@ backdrop-filter: blur(17.1503px);
 .dotsClass{
   color:black;
 }
+body{
+  background: url('../public/Assets/bg.jpg');
+background-size: 100%;
+background-repeat: no-repeat;
+min-height: 100vh;
+background-position: center bottom;
+}
