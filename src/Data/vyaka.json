@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "image":"Assets/forma/Group 14.png",
+        "link":"/forma2"
+    },
+
+    {
+        "id":2,
+        "image":"Assets/forma/Group 26.png",
+        "link":"/forma1"
+    },
+    {
+        "id":3,
+        "image":"Assets/forma/Group 15.png",
+        "link":"/forma3"
+    }, {
+        "id":4,
+        "image":"Assets/forma/Group 16.png",
+        "link":"/forma4"
+    },
+    {
+        "id":5,
+        "image":"Assets/forma/Group 17.png",
+        "link":"/forma5"
+    },
+    {
+        "id":6,
+        "image":"Assets/forma/Group 18.png",
+        "link":"/forma6"
+    }, {
+        "id":7,
+        "image":"Assets/forma/Group 19.png",
+        "link":"/forma7"
+    },
+    {
+        "id":8,
+        "image":"Assets/forma/Group 20.png",
+        "link":"/forma8"
+    },
+    {
+        "id":9,
+        "image":"Assets/forma/Group 21.png",
+        "link":"/forma9"
+    },{
+        "id":10,
+        "image":"Assets/forma/Group 22.png",
+        "link":"/forma10"
+    }
+]
